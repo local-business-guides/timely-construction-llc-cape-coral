@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/timely-construction-llc-cape-coral/sitemap.xml
+Sitemap: https://local-business-guides.github.io/timely-construction-llc-cape-coral/news-sitemap.xml

@@ -25,6 +25,9 @@
 - [Choosing a bathroom remodeler near me](https://local-business-guides.github.io/timely-construction-llc-cape-coral/bathroom-remodeler-near-me/): Find a bathroom remodeler near me for thoughtful planning and skilled bathroom updates in Cape Coral.
 - [Find a kitchen remodeler Cape Coral homeowners can talk to](https://local-business-guides.github.io/timely-construction-llc-cape-coral/kitchen-remodeler-cape-coral/): Talk with a kitchen remodeler Cape Coral homeowners can consult for a well-planned kitchen renovation.
 
+## Newsroom
+- [Timely Construction Shares Kitchen Remodeling Cape Coral Guide in Four Formats](https://local-business-guides.github.io/timely-construction-llc-cape-coral/news/2026-10-27-timely-construction-shares-kitchen-remodeling-cape/): Timely Construction LLC published a kitchen remodeling guide this week, along with a YouTube video, podcast episode and SoundCloud audio version. (2026-10-27)
+
 ## Pages
 - [Kitchen Remodeling in Cape Coral, Florida](https://local-business-guides.github.io/timely-construction-llc-cape-coral/): Get practical remodeling and construction support for a kitchen that works better in Cape Coral. Call +1239-203-8353.
 - [About Timely Construction LLC](https://local-business-guides.github.io/timely-construction-llc-cape-coral/about/): About Timely Construction LLC, Cape Coral.
@@ -32,3 +35,4 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/timely-construction-llc-cape-coral/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/timely-construction-llc-cape-coral/news/rss.xml)
